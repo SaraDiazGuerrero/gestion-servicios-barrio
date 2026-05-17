@@ -1,3 +1,5 @@
 Persona que accede al sistema mediante un identificador y una clave. El usuario puede tener un perfil de Administrador o de Vecino, según los permisos asignados.
 
 El Administrador puede gestionar usuarios, servicios, gastos y liquidaciones, mientras que el Vecino puede consultar la información relacionada con sus propios inmuebles, servicios y liquidaciones.
+
+Cada usuario tiene un perfil asignado, que determina las funciones que puede realizar dentro del sistema. Los perfiles principales son Administrador y Vecino.
