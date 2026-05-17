@@ -1,0 +1,3 @@
+Un Servicio es una actividad o prestación gestionada por la Administración Del Barrio Residencial y ofrecida a los vecinos a través de sus inmuebles.
+
+En el sistema, los servicios representan aquellas actividades que forman parte de la gestión del barrio, como por ejemplo el mantenimiento de zonas comunes, el corte de césped, la limpieza, la seguridad, el internet u otros servicios que puedan ser administrados por el barrio residencial.
